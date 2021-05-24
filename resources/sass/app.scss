@@ -1,0 +1,17 @@
+//
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+//font awesome
+@import "~@fortawesome/fontawesome-free/scss/fontawesome.scss";
+@import "~@fortawesome/fontawesome-free/scss/regular.scss";
+@import "~@fortawesome/fontawesome-free/scss/solid.scss";
+@import "~@fortawesome/fontawesome-free/scss/brands.scss";
+
+// Variables
+@import "variables";
+
+// Template
+@import "~admin-lte/dist/css/adminlte.css";
+
+// Global
+@import "global";
